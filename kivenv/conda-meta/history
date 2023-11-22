@@ -18,3 +18,45 @@
 +conda-forge/win-64::vs2015_runtime-14.36.32532-h05e6639_17
 +conda-forge/win-64::xz-5.2.6-h8d14728_0
 # update specs: ['python=3.8.18']
+==> 2023-11-22 21:06:31 <==
+# cmd: c:\Users\HP\anaconda3\Scripts\conda-script.py install -c conda-forge --prefix e:/mlstudentprojectimplmentation/kivenv ipykernel -y
+# conda version: 23.10.0
++conda-forge/noarch::asttokens-2.4.1-pyhd8ed1ab_0
++conda-forge/noarch::backcall-0.2.0-pyh9f0ad1d_0
++conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_0
++conda-forge/noarch::comm-0.1.4-pyhd8ed1ab_0
++conda-forge/noarch::decorator-5.1.1-pyhd8ed1ab_0
++conda-forge/noarch::executing-2.0.1-pyhd8ed1ab_0
++conda-forge/noarch::importlib-metadata-6.8.0-pyha770c72_0
++conda-forge/noarch::importlib_metadata-6.8.0-hd8ed1ab_0
++conda-forge/noarch::ipykernel-6.26.0-pyha63f2e9_0
++conda-forge/noarch::ipython-8.12.2-pyh08f2357_0
++conda-forge/noarch::jedi-0.19.1-pyhd8ed1ab_0
++conda-forge/noarch::jupyter_client-8.6.0-pyhd8ed1ab_0
++conda-forge/noarch::matplotlib-inline-0.1.6-pyhd8ed1ab_0
++conda-forge/noarch::nest-asyncio-1.5.8-pyhd8ed1ab_0
++conda-forge/noarch::packaging-23.2-pyhd8ed1ab_0
++conda-forge/noarch::parso-0.8.3-pyhd8ed1ab_0
++conda-forge/noarch::pickleshare-0.7.5-py_1003
++conda-forge/noarch::platformdirs-4.0.0-pyhd8ed1ab_0
++conda-forge/noarch::prompt-toolkit-3.0.41-pyha770c72_0
++conda-forge/noarch::prompt_toolkit-3.0.41-hd8ed1ab_0
++conda-forge/noarch::pure_eval-0.2.2-pyhd8ed1ab_0
++conda-forge/noarch::pygments-2.17.2-pyhd8ed1ab_0
++conda-forge/noarch::python-dateutil-2.8.2-pyhd8ed1ab_0
++conda-forge/noarch::six-1.16.0-pyh6c4a22f_0
++conda-forge/noarch::stack_data-0.6.2-pyhd8ed1ab_0
++conda-forge/noarch::traitlets-5.13.0-pyhd8ed1ab_0
++conda-forge/noarch::typing_extensions-4.8.0-pyha770c72_0
++conda-forge/noarch::wcwidth-0.2.12-pyhd8ed1ab_0
++conda-forge/noarch::zipp-3.17.0-pyhd8ed1ab_0
++conda-forge/win-64::debugpy-1.8.0-py38hd3f51b4_1
++conda-forge/win-64::jupyter_core-5.5.0-py38haa244fe_0
++conda-forge/win-64::libsodium-1.0.18-h8d14728_1
++conda-forge/win-64::psutil-5.9.5-py38h91455d4_1
++conda-forge/win-64::python_abi-3.8-4_cp38
++conda-forge/win-64::pywin32-306-py38hd3f51b4_2
++conda-forge/win-64::pyzmq-25.1.1-py38hdecc13b_2
++conda-forge/win-64::tornado-6.3.3-py38h91455d4_1
++conda-forge/win-64::zeromq-4.3.5-h63175ca_0
+# update specs: ['ipykernel']
